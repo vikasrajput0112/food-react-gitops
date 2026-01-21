@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<github-username>/food-react-gitops.git
+    repoURL: https://github.com/vikasrajput0112/food-react-gitops.git
     targetRevision: main
     path: k8s
   destination:

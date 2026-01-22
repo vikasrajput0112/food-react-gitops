@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: food-react
-        image: ghcr.io/vikasrajput0112/food-react-website:9
+        image: ghcr.io/vikasrajput0112/food-react-website:10
         ports:
         - containerPort: 80
